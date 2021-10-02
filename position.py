@@ -1,7 +1,6 @@
 import time
 import ctypes
 import pytesseract
-import win32gui
 
 import pyautogui
 from pyautogui import press
